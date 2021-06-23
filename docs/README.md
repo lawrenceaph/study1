@@ -1,3 +1,7 @@
+This is a template for study purposes. 
+
+Original Readme of the Theme Utilized for this template is below:
+
 # 🌱 hugo-theme-dream
 
 ![GitHub release (latest by date)](https://img.shields.io/github/v/release/g1eny0ung/hugo-theme-dream)
