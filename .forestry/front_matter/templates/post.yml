@@ -25,3 +25,4 @@ fields:
   label: tags
 pages:
 - content/posts/post-two-using-forestry.io.md
+- content/posts/third-post.md
