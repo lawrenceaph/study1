@@ -5,6 +5,7 @@ cover = "/uploads/rand.jfif"
 date = 2021-06-23T16:00:00Z
 lastmod = ""
 tags = []
+weight = 2
 title = "Post Two Using Forestry.Io"
 
 +++

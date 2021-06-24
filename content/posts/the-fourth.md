@@ -6,7 +6,7 @@ date = 2021-06-24T04:00:00Z
 lastmod = ""
 tags = ["cooltag3"]
 title = "The Fourth"
-
+weight = 4
 +++
 This is the fourth of four posts to serve as the template site's initial material.
 

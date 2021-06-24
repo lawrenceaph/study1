@@ -1,19 +1,17 @@
----
-title: One
-date: 2021-06-24T05:22:57+08:00
-lastmod: 2021-06-24T05:22:57+08:00
-author: Servant-Heart
-# avatar: /img/author.jpg
-# authorlink: https://author.site
-cover: /img/default1.jpg
-categories:
-  - Category1
-tags:
-  - CoolTagOne
-  - CoolTagTwo
++++
+title = "One"
+date = 2021-06-24T05:22:57+08:00
+lastmod = 2021-06-24T05:22:57+08:00
+author = "Servant-Heart"
+# avatar = "/img/owlee.gif"
+# authorlink = "https://author.site"
+cover = "/img/default1.jpg"
+categories = ["Category1"]
+tags = ["CoolTagOne", "CoolTagTwo"]
 # nolastmod: true
-draft: false
----
+draft = false
+weight = 1
++++
 
 Example Post. Summary goes here.
 <!--more-->

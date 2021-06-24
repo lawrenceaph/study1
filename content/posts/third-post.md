@@ -6,7 +6,7 @@ date = 2021-06-23T16:00:00Z
 lastmod = ""
 tags = []
 title = "Third Post"
-
+weight = 3
 +++
 **Lorem Ipsum** is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. 
 
