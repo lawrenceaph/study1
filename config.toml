@@ -14,7 +14,7 @@ title = "Small Things Matter"
 
 [params]
   background = "#f7f7f7"
-  # backgroundImage = "/me/background.jpg"
+  backgroundImage = "/img/leaves2.png"
   linkColor = "seagreen"
 
   # dark mode
