@@ -1,7 +1,7 @@
 baseurl = "/"
 languageCode = "en"
 defaultContentLanguage = "en"
-title = "Small Things Matter"
+title = "Small Things Really Matter"
 # theme = "hugo-theme-dream"
 
 # copyright = ""
@@ -27,7 +27,7 @@ title = "Small Things Matter"
 
   author = "An Author"
   # description = ""
-  avatar = "/img/owlee.gif"
+  avatar = "/img/skater.gif"
   headerTitle = "Web App One"
   motto = "Small Things Matter"
   # maxTags = 5
