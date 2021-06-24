@@ -27,7 +27,7 @@ title = "Small Things Matter"
 
   author = "An Author"
   # description = ""
-  avatar = "/img/skater.gif"
+  avatar = "/img/owlee.gif"
   headerTitle = "Web App One"
   motto = "Small Things Matter"
   # maxTags = 5
@@ -56,7 +56,7 @@ title = "Small Things Matter"
 
   siteStartYear = 2021
 
-  # favicon = "/favicon.ico"
+  favicon = "/favicon.ico"
 
   # highlightjs = true
   # highlightjsCDN = "https://cdn.jsdelivr.net/gh/highlightjs/cdn-release/build/highlight.min.js"
